@@ -1,0 +1,17 @@
+{
+  "name": "JWT Generator Pro",
+  "slug": "jwt-generator-pro",
+  "tagline": "Create and sign JWT tokens with multiple algorithms",
+  "description": "Create and sign JWT tokens with multiple algorithms",
+  "price": "9",
+  "features": [],
+  "tech_stack": "Vercel + Node.js",
+  "status": "building",
+  "vercel_url": null,
+  "github_url": null,
+  "lemonsqueezy_checkout_url": null,
+  "lemonsqueezy_product_id": null,
+  "webhook_url": null,
+  "created_cycle": null,
+  "deployed_cycle": null
+}
