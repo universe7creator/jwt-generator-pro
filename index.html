@@ -647,7 +647,7 @@
       });
 
       // Checkout buttons
-      const CHECKOUT_URL = window.__CHECKOUT_URL || null;
+      const CHECKOUT_URL = "https://buy.polar.sh/polar_cl_iWQFhxbiGyHJNj0F6bWKOwlTaNCAAixhuw4tI3h4NQy";
       ['navBuyBtn', 'heroBuyBtn', 'pricingBuyBtn'].forEach(id => {
         document.getElementById(id).addEventListener('click', () => {
           if (CHECKOUT_URL) window.open(CHECKOUT_URL, '_blank');

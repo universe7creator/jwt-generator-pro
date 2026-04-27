@@ -4,16 +4,31 @@
   "tagline": "Create and sign JWT tokens with multiple algorithms",
   "description": "Create and sign JWT tokens with multiple algorithms",
   "price": "9",
-  "features": [],
+  "features": [
+    "Instant generation",
+    "Professional-grade features",
+    "No signup required",
+    "Browser-based, no install"
+  ],
   "tech_stack": "Vercel + Node.js",
   "status": "live",
   "vercel_url": "https://jwt-generator-pro.vercel.app",
   "github_url": null,
-  "lemonsqueezy_checkout_url": "https://profitbridge.lemonsqueezy.com/checkout/buy/657c71c4-5608-4224-84de-075a8938610f",
   "lemonsqueezy_product_id": null,
   "webhook_url": null,
-  "created_cycle": null,
-  "deployed_cycle": null,
-  "checkout_url": "https://profitbridge.lemonsqueezy.com/checkout/buy/657c71c4-5608-4224-84de-075a8938610f",
-  "lemon_checkout_url": "https://profitbridge.lemonsqueezy.com/checkout/buy/657c71c4-5608-4224-84de-075a8938610f"
+  "created_cycle": 990,
+  "deployed_cycle": 1108,
+  "checkout_url": "https://buy.polar.sh/polar_cl_iWQFhxbiGyHJNj0F6bWKOwlTaNCAAixhuw4tI3h4NQy",
+  "seo_optimized": true,
+  "seo_optimized_at": "2026-04-21T17:47:00Z",
+  "payment_provider": "polar",
+  "spec_version": "1.0",
+  "polar_product_id": "78865cbc-22c6-44c2-906a-76f2dd201f15",
+  "polar_product_price_id": "8c1ce8f2-949a-4028-9fe9-516e4c2aec3c",
+  "polar_checkout_link_id": "85861fc0-c7e3-4a1f-9ec0-7e36f19ffa5c",
+  "category": "security",
+  "tags": [
+    "generator",
+    "security"
+  ]
 }
